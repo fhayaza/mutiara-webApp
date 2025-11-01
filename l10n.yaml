@@ -1,0 +1,6 @@
+arb-dir: assets/l10n
+template-arb-file: app_id.arb
+output-localization-file: l.dart
+output-class: L
+output-dir: core/lib/static/src/l10n
+synthetic-package: false

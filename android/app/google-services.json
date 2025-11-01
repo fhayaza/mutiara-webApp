@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920323783981",
+    "project_id": "mutiara-app",
+    "storage_bucket": "mutiara-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920323783981:android:63c0dc02708d179a6ae7a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo6hRBZUkrc3ZqwYqpJA4qJ4thlk4QI7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920323783981:android:afc0c642b9b3064a6ae7a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo6hRBZUkrc3ZqwYqpJA4qJ4thlk4QI7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

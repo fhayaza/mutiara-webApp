@@ -1,0 +1,14 @@
+{
+  "id": "abc123",
+  "name": "Cincin Mutiara Lombok",
+  "price": 1200000,
+  "grade": "AAA",
+  "category": "Cincin",
+  "description": "Cincin mutiara laut warna emas",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/project-id.appspot.com/o/products%2Fcincin1.png",
+    "https://firebasestorage.googleapis.com/v0/b/project-id.appspot.com/o/products%2Fcincin2.png"
+  ],
+  "isAvailable": true,
+  "createdAt": "2025-09-05T10:00:00Z"
+}

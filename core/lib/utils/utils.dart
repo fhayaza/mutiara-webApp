@@ -10,3 +10,4 @@ export './src/textstyle.dart';
 export './src/navigator.dart';
 export './src/widget_builder.dart';
 export './src/whatsapp_helper.dart';
+export './src/formatters.dart';
